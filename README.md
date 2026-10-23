@@ -15,4 +15,6 @@ Download the software ZIP from [the latest release](https://github.com/XMJGame/P
 - [用户中心 / Account portal](https://pulletlab.timecapsulepost.com/account/)
 - Support: pulletlab@timecapsulepost.com
 
-SHA256SUMS.txt and third-party notices are attached to each release. Public downloads do not make the product open source.
+Each release provides one software ZIP. See the release description for build details and available SHA256 checksums; keep the license and third-party notices included with the downloaded package. Public downloads do not make the product open source.
+
+每个发布页仅提供一个软件 ZIP。版本信息及已提供的 SHA256 校验值见发布说明；请保留下载包内的许可和第三方声明文件。公开下载不代表产品开源。
